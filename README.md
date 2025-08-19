@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HuzaifahBobbo
 - 👀 I’m interested in C coding language, Javascript
-- 🌱 I’m currently learning  year (fourth  year) of university
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  a new graduate
+
 - 📫 How to reach me huzaifahbobbo17@gmail.com/huzaifah_bobbo
 
 <!---
